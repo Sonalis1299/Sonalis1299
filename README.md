@@ -81,5 +81,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sonalis1299&icon=2&color=12" />
+  <img src="https://komarev.com/ghpvc/?username=Sonalis1299&label=Profile%20views&color=0e75b6&style=flat" alt="Sonalis1299" />
 </p>
+
+---

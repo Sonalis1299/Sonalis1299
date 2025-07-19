@@ -7,17 +7,17 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
-- 🎓 Final Year B.Tech IT Student at KIET Group of Institutions  
-- 🧠 Learning **MERN, DSA, System Design, DevOps Tools, and Backend Architectures**
-- 💡 Love working on impactful projects with clean UI/UX and strong backend logic
-- 🛠️ Currently exploring: **Next.js, TypeScript, Docker, AWS**
-- 🎯 Goal: Become a **Full-Stack Developer** with DevOps & Cloud expertise
+- Final Year B.Tech IT Student at KIET Group of Institutions  
+- Learning **MERN, DSA, System Design, DevOps Tools, and Backend Architectures**
+- Love working on impactful projects with clean UI/UX and strong backend logic
+- Currently exploring: **Next.js, TypeScript, Docker, AWS**
+- Goal: Become a **Full-Stack Developer** with DevOps & Cloud expertise
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -34,7 +34,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonalisingh&show_icons=true&theme=tokyonight" width="48%"/>
@@ -47,7 +47,7 @@
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect
 
 - 💻 [LeetCode](https://leetcode.com/u/sonalisingh129/)
 - 🌐 Portfolio: *Coming Soon*

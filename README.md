@@ -4,70 +4,63 @@
 ---
 
 ### 🔗 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/sonali-singh-73334824a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/sonaaf_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
   <a href="https://leetcode.com/sonalisingh129" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
 ### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,tailwind,python,java,git,github,vscode" height="50"/>
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonalis1299&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonalis1299&layout=compact&theme=tokyonight" height="170"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonalis1299&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonalis1299&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sonalis1299&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sonalis1299&theme=tokyonight" height="150"/>
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sonalis1299&theme=monokai&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sonalis1299&theme=dracula&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-### 🧠 LeetCode Stats (via badge)
+### 🎮 Fun Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sonalis1299/Sonalis1299/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonalis1299/Sonalis1299/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Sonalis1299/Sonalis1299/output/github-contribution-grid-snake.svg">
+</picture>
 
+---
+
+### 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sonalisingh129?theme=light&font=Baloo&ext=contest">
+  <img src="https://leetcard.jacoblin.cool/sonalisingh129?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 ---
 
 ### ✍️ Quote of the Day
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
@@ -75,7 +68,6 @@
 ---
 
 ### 🌐 Portfolio
-
 🚧 Coming soon...
 
 ---
@@ -83,5 +75,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sonalis1299&label=Profile%20views&color=0e75b6&style=flat" alt="Sonalis1299" />
 </p>
-
----

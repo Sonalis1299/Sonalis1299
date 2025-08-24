@@ -59,10 +59,9 @@
 ---
 
 ### 🌐 Portfolio
-🚧 Coming soon...
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sonalis1299&label=Profile%20views&color=0e75b6&style=flat" alt="Sonalis1299" />
+  <a href="https://sonalisingh.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" />
+  </a>
 </p>
+

@@ -60,7 +60,7 @@
 
 ### 🌐 Portfolio
 <p align="center">
-  <a href="https://sonalisingh.dev" target="_blank">
+  <a href="https://portfolio-teal-pi-xdm9a63agy.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
 </p>
